@@ -1,0 +1,48 @@
+body
+{
+	background: gray;
+}
+
+#header
+{
+	color: blue;
+	width: 100%;
+	background: orange;
+	height: 100px;
+     padding-top:50px;
+	border-bottom: 5px solid blue;
+}
+
+#header h1
+{
+	color: black;
+	font-size: 3em;
+	font-family: comic sans MS;
+	text-align: center;
+	
+}
+
+#sidebar
+{
+	width: 250px;
+	float: left;
+	background: orange;
+	border-right: 5px solid blue;
+	height: 600px;
+}
+
+#sidebar h2
+{
+	text-align: center;
+	font-size: 1em;
+	color: brown;
+}
+
+#welcome
+{
+	float:right;
+	margin: 50px;
+	padding: 50px;
+	text-align: center;
+	color: white;
+}
